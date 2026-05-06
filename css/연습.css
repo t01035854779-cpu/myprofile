@@ -78,8 +78,9 @@ section {
 }
 /* 더보기 */
 .btn-view {
-    padding: 20px;
-    counter-reset: #d3cece;
+
+    padding: 8px 20px;
+    padding-bottom: 10px;
     background: linear-gradient(45deg, #10fcf0, #7592fc, #fca910);
     border-radius: 24px;
     box-shadow: 5px 5px 20px rgba(0, 140, 255, 0.5);
