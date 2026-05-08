@@ -32,7 +32,16 @@ section {
 }
 /* 카드박스 */
 .detail-box {
-    margin-bottom: 20px;
+    margin-bottom: 25px;
+}
+.detail2-box {
+    margin-bottom: 25px;
+}
+.detail3-box {
+    margin-bottom: 25px;
+}
+.detail4-box {
+    margin-bottom: 25px;
 }
 
 .detail-box h2 {
@@ -41,10 +50,22 @@ section {
     border-left: 4px solid #eede52;
     padding-left: 10px;
 }
-.member1 .detail-box h2{
+.detail1-box h2 {
     font-size: 16px;
     margin-bottom: 10px;
     border-left: 4px solid #463d2b;
+    padding-left: 10px;
+}
+.detail2-box h2 {
+    font-size: 16px;
+    margin-bottom: 10px;
+    border-left: 4px solid #e9a2e5;
+    padding-left: 10px;
+}
+.detail3-box h2 {
+    font-size: 16px;
+    margin-bottom: 10px;
+    border-left: 4px solid #ff820c;
     padding-left: 10px;
 }
 ul {
