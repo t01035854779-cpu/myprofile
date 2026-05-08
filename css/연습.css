@@ -55,6 +55,10 @@ section {
     display: flex;
     border-radius: 50%;
     overflow: hidden;
+    /* margin-right: 10px; */
+}
+.member3 .profile-img{
+    margin-right: 22px;
 }
 .profile-img img {
     width: 100%;
@@ -93,8 +97,8 @@ section {
     box-shadow: 5px 5px 20px rgba(243, 170, 87, 0.5);
 }
 .member4 .btn-view {
-    background: linear-gradient(45deg, #c5e274, #75affc, hsl(249, 93%, 54%));
-    box-shadow: 5px 5px 20px rgba(243, 87, 126, 0.5);
+    background: linear-gradient(45deg, #fffb29, #a0e9b8, hsl(180, 93%, 54%));
+    box-shadow: 5px 5px 20px rgba(255, 228, 78, 0.5);
 }
 /* 연락처 영역 */
 .link-contact {
